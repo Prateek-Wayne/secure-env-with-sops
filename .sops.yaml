@@ -1,5 +1,6 @@
 creation_rules:
-  - pgp: 196e2fb0add1fa0ea00e377eb92cc7cd1b5275ca
+  - pgp: >-
+      196e2fb0add1fa0ea00e377eb92cc7cd1b5275ca,d7d1ff182af9f304af01db8f15ef228052ff6d2f
     github:
       - prateek-wayne
       - ajayyadavcstech

@@ -1,2 +1,3 @@
 secrets.dev.yaml
 node_modules/
+.decrypted~secrets.dev.enc.yaml
