@@ -2,3 +2,4 @@ creation_rules:
   - pgp: 196e2fb0add1fa0ea00e377eb92cc7cd1b5275ca
     github:
       - prateek-wayne
+      - ajayyadavcstech
