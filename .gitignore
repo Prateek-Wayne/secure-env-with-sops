@@ -1,3 +1,5 @@
 secrets.dev.yaml
 node_modules/
 .decrypted~secrets.dev.enc.yaml
+.env
+# Note: .env.enc is NOT ignored - it should be committed
